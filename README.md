@@ -1,2 +1,2 @@
 # PROCSURVEYMEANS-Project
-Cal Poly 330 Final Project on PROC SURVEYMEANS
+Cal Poly STAT 330 Final Project on PROC SURVEYMEANS
